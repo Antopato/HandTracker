@@ -1,0 +1,14 @@
+# Excluir entorno virtual
+venv_new/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor (opcional)
+.vscode/
+.idea/
